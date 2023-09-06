@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6wovkQUxZoFNOIfLz88LKsH2U88fG9BeQdRkgE7FvAYctIMtKl6Ez4kg021Ou8nJbLqaLAM66S3Ic/lglQ6fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Visual Studio Code\\Book\\Chapter9\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

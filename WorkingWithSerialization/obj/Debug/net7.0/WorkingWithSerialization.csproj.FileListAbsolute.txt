@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.exe
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.deps.json
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.dll
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.pdb
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.dll
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\refint\WorkingWithSerialization.dll
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.pdb
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\ref\WorkingWithSerialization.dll
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CopyComplete

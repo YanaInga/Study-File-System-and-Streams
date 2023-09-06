@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.exe
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.deps.json
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.dll
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.pdb
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.dll
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\refint\WorkingWithFileSystems.dll
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.pdb
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio Code\Book\Chapter9\WorkingWithFileSystems\obj\Debug\net7.0\ref\WorkingWithFileSystems.dll
